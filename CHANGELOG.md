@@ -1,3 +1,5 @@
-## 0.0.1
+## 0.1.0 - 2025-06-06
 
-* TODO: Describe initial release.
+### Added
+
+- First release

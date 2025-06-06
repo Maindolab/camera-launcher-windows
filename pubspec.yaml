@@ -1,7 +1,8 @@
 name: camera_launcher_windows
-description: "A new Flutter plugin project."
-version: 0.0.1
-homepage:
+description: "A simple plugin to launch the native Windows camera app."
+version: 0.1.0
+homepage: https://www.wesellbrain.com/app-software-custom/
+repository: https://github.com/Maindolab/camera-launcher-windows
 
 environment:
   sdk: ^3.7.2
