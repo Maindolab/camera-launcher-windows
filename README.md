@@ -21,8 +21,7 @@ Add the plugin to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  camera_launcher_windows:
-    path: ../camera_launcher_windows
+  camera_launcher_windows: ^0.1.0
 ```
 
 ---
